@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity
 
     public void button1Pressed(View sender)
     {
+        //lol
         if(sender == this.firstButton)
         {
             this.tv.setText("Mike");
